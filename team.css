@@ -1,0 +1,69 @@
+body{
+    margin : 0px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    color: #40154E;
+    background-color: black;
+}
+
+img{
+    border-radius: 100%;
+  }
+
+  h2{
+    font-family: 'Montserrat', serif;
+    font-size: 3.5rem;
+    color : #66BFBF;
+    font-weight : normal;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: rgb(115, 100, 100);
+    border-width: 5px;
+    height: 0;
+
+}
+
+h3{
+    color: aliceblue;
+    font-family: 'Montserrat', serif;
+    font-size: 1.5rem;
+}
+
+.middle-container{
+    margin: 20px 0;
+}
+
+.skill-row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.skill-row2{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: right;
+    line-height: 2;
+
+}
+
+.description1{
+    color: blueviolet;
+}
+
+.img1{
+    width:25%;
+    float: left;
+    margin-right:30px;
+}
+
+.img2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
